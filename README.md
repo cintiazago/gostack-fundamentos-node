@@ -20,7 +20,7 @@
 
 ## 🚀 Sobre o desafio
 
-Nesse desafio, foi criada uma aplicação para treinar o que aprendemos até agora com Node.js, junstamnente com TypeScript, utilizando o conceito de models, repositories e services!
+Nesse desafio, foi criada uma aplicação para treinar o que aprendemos até agora com Node.js, juntamente com TypeScript, utilizando o conceito de models, repositories e services!
 
 Esta será uma aplicação para armazenar transações financeiras de entrada e saída, devendo permitir o cadastro e a listagem destas transações.
 
@@ -29,6 +29,7 @@ Esta será uma aplicação para armazenar transações financeiras de entrada e 
 
 - [NodeJs][nodejs]
 - [Express][express]
+- [Typescript][typescript]
 - [uuidv4][uuidv4]
 
 
@@ -130,6 +131,7 @@ Feito com ❤️ por Cintia Zago 👋🏽 [Entre em contato!](https://www.linked
 [nodejs]: https://nodejs.org/
 [express]: https://expressjs.com/
 [uuidv4]: https://www.npmjs.com/package/uuidv4
+[typescript]: https://www.typescriptlang.org/
 [nodemon]: https://www.npmjs.com/package/nodemon
 [rs]: https://rocketseat.com.br
 [license]: https://opensource.org/licenses/MIT
